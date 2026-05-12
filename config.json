@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/medical",
+    "proud_uri": "mysql://root:@localhost/medical",
+    "fb_url":"https://www.facebook.com/share/1KzxxEvnEn/?mibextid=wwXIfr",
+    "tw_url":"https://github.com/VigneshJothiKarthikeyan?tab=repositories",
+    "gh_url":"https://github.com/VigneshJothiKarthikeyan?tab=repositories",
+    "blog_name": "WELCOME",
+    "headname": "Pharmacy Management System",
+    "user": "test",
+    "password": "test",
+    "login_image": "aple.jpg"
+
+  }
+}
